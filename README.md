@@ -1,4 +1,4 @@
-# Hiển Thị Hồ Sơ và Kho Lưu Trữ GitHub
+# Profile Github V2
 
 Dự án này hiển thị hồ sơ GitHub, kho lưu trữ code cùng với các liên kết mạng xã hội trên một trang web đẹp mắt. Nó sử dụng GitHub API để lấy và hiển thị hồ sơ GitHub và các kho lưu trữ của bạn, và bao gồm các biểu tượng mạng xã hội để dễ dàng truy cập vào các hồ sơ khác của bạn.
 
